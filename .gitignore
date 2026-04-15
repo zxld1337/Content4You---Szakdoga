@@ -30,9 +30,10 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
-database/*.sql  
+database/ai_recommender_db.sql  
 
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+.vs/
